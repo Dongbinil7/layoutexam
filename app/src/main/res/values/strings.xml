@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">layout_home</string>
+    <string name="name">Hi Hassan!</string>
+    <string name="gretting">what you gonna eat today</string>
+    <string name="grettting">Wellcome food lover</string>
+    <string name="desc_text">Ea More Love More</string>
+    <string name="Desc_txt">Eat More Love More</string>
+    <string name="catalog">Menu Favorite</string>
+    <string name="gretting_food">Wellcome food lover</string>
+    <string name="desc_txt">Eat More Love More</string>
+    <string name="catalogmenu">Menu Favorite</string>
+    <string name="Name">HI HASSAN!!!</string>
+    <string name="txt">What u wanna eat today</string>
+    <string name="Catalog">Menu Favorite</string>
 </resources>
